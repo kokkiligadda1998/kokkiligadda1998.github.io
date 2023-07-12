@@ -222,7 +222,20 @@
         <div class="author">
         
 
-        </div>
+        Yanning Wang, Debbie L Wilson, Deanna Fernandes, and
+          <span class="more-authors" title="click to view 15 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '15 more authors' ? 'Lauren E Adkins, Ashley Bantad, Clint Copacia, Nilay Dharma, Pei-Lin Huang, Amanda Joseph, Tae Woo Park, Jeffrey Budd, Senthil Meenrajan, Frank A Orlando, John Pennington, Siegfried Schmidt, Ronald Shorr, Constance R Uphold, Wei-Hsuan Lo-Ciganic' : '15 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '20');
+              ">15 more authors</span>
+</div>
 
         <!-- Journal/Book title and date -->
         
