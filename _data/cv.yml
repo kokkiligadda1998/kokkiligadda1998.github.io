@@ -127,3 +127,63 @@
       description:
         - Role - Co-Investigator
         - Funding - SLEEP RESEARCH SOCIETY FOUNDATION
+    - year: Jan 2023
+      title: Real-World Trajectories of Xanthine Oxidase Inhibitor Use and Downstream Cardiovascular Outcomes
+      description:
+        - Role - Other
+        - Funding - AMER HEART ASSOCIATION
+    - year: Jul 2022
+      title: Machine-Learning Prediction and Reducing Overdoses with EHR Nudges (mPROVEN)
+      description:
+        - Role - Principal Investigator
+        - Funding - UNIV OF PITTSBURGH via NATL INST OF HLTH NIDA
+    - year: Jul 2021
+      title: Developing and Evaluating a Machine-Learning Opioid Prediction & Risk-Stratification E-Platform (DEMONSTRATE)
+      description:
+        - Role - Principal Investigator
+        - Funding - NATL INST OF HLTH NIDA
+    - year: Jul 2021 - Dec 2022
+      title: Predicting Risky Opioid Therapy e-Care Tool (PROTeCT)- Prototype Development and Pilot Testing
+      description:
+        - Role - Principal Investigator
+        - Funding - UF HEALTH SHANDS HOSPITAL
+    - year: May 2021 - Dec 2022
+      title: Utilization patterns of cough medications in the United States
+      description:
+        - Role - Principal Investigator
+        - Funding - MERCK AND COMPANY INC
+    - year: Mar 2021 - May 2022
+      title: VA IPA - Nursing Unit Design and Hospital Falls 2021-2022
+      description:
+        - Role - Principal Investigator
+        - Funding - US DEPT OF VET AFF GAINESVILLE MED CTR
+    - year: Sep 2020
+      title: Linking VA and non-VA data to study the risk of suicide in chronic pain patients
+      description:
+        - Role - Co-Investigator
+        - Funding - WEILL MED COLLEGE OF CORNELL UNIV via NATL INST OF HLTH NIMH
+    - year: Jul 2020
+      title: Implementing Opioid Risk Prediction Models
+      description:
+        - Role - Principal Investigator
+        - Funding - UNIV OF PITTSBURGH via RICHARD KING MELLON FOU
+    - year: Jan 2020 – Feb 2021
+      title: Leveraging social media data for evaluation of drug use trends after opioid policies
+      description:
+        - Role - Co-Investigator
+        - Funding - AMER ASSO OF COL OF PHARMACY
+    - year: May 2019 – Jan 2022
+      title: Developing a Real-Time Trajectory Tool to Identify Potentially Unsafe Concurrent Opioid and Benzodiazepine Use among Older Adults
+      description:
+        - Role - Principal Investigator
+        - Funding - NATL INST OF HLTH NIA
+    - year: Jul 2018 – Jun 2022
+      title: Using Machine Learning to Predict Problematic Opioid Use and Opioid Overdoses
+      description:
+        - Role - Principal Investigator
+        - Funding -  UNIV OF PITTSBURGH via NATL INST OF HLTH NIDA
+    - year: Jul 2018 – Jun 2020
+      title: Machine Learning and Opioid Overdoses
+      description:
+        - Role - Principal Investigator
+        - Funding -  UNIV OF PITTSBURGH via RICHARD KING MELLON FOU
