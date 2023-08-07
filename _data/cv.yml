@@ -187,3 +187,21 @@
       description:
         - Role - Principal Investigator
         - Funding -  UNIV OF PITTSBURGH via RICHARD KING MELLON FOU
+
+- title: Memberships in professional and scientific societies
+  type: time_table
+  contents:
+    - year: 2015-present
+      title: American Association of Colleges of Pharmacy (AACP)
+    - year: 2015-present
+      title: International Society of Pharmacoepidemiology (ISPE)
+    - year: 2015-2020
+      title: American College of Rheumatology (ACR)-Association of Rheumatology Health Professionals (ARHP)
+    - year: 2013-present
+      title: International Society of Pharmaceutical and Outcome Research (ISPOR)
+    - year: 2016-2018
+      title: Academy Health
+    - year: 2012-2013
+      title: Gerontology Society of America (GSA)
+    - year: 2005-2006, 2013
+      title: American College of Clinical Pharmacy (ACCP)
