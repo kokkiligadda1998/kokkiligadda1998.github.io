@@ -6,3 +6,200 @@
       year: 2023 fall
       description:
         - Role - Primary coordiner/instructor
+    - title: PHA5244 - Principles of Evidence-Based Practice
+      institution: University of Florida, College of Pharmacy, Pharm D Program
+      year: 2019 - 2023 spring
+      description:
+        - Role - Primary coordiner/instructor
+    - title: PHA 5242 - Principles of Pharmacy Informatics
+      institution: University of Florida, College of Pharmacy, Pharm D Program
+      year: 2023 fall
+      description:
+        - Role - Lecturer
+    - title: PHA 6268 Pharmacoepidemiolo gy and Drug Safety
+      institution: University of Florida, College of Pharmacy, Department of Pharmaceutical Outcomes and Policy Graduate Program
+      year: 2020 - 2021 fall
+      description:
+        - Role - Primary coordiner/instructor
+    - title: PHA6265 - Introduction to Pharmaceutical Outcomes & Policy
+      institution: University of Florida, College of Pharmacy, Department of Pharmaceutical Outcomes and Policy Graduate Program
+      year: 2018 - 2023 spring
+      description:
+        - Role - Lecturer
+    - title: SAS workshop
+      institution: University of Arizona, College spring of Pharmacy, Health Pharmaceutical Outcome Graduate Program
+      year: 2018 spring
+      description:
+        - Role - Primary coordiner/instructor
+    - title: PhSc 596E - Graduate Seminar
+      institution: University of Arizona, College of Pharmacy, Health Pharmaceutical Outcome Graduate Program
+      year: 2016 spring
+      description:
+        - Role - Primary coordiner/instructor
+    - title: PhSc 513C - Health Technology Assessment
+      institution: University of Arizona, College of Pharmacy, Health Pharmaceutical Outcome Graduate Program
+      year: 2016 fall
+      description:
+        - Role - Primary coordiner/instructor
+    - title: CLRES 2005 - Clinical Research Methods
+      institution: University of Pittsburgh, Institute for Clinical Research and Education
+      year: 2010, 2011
+      description:
+        - Role - Primary teaching assistant
+
+- title: Invited lectures, seminars, tutorials, workshop & continuing education courses
+  type: time_table
+  contents:
+    - title: The Future is Now
+      institution: 2023 American Pharmacy Association Annual Meeting & Exposition
+      year: 03/2023
+      description:
+        - Lecture title - AI and Machine Learning in Medicine
+        - Role - Key speaker
+    - title: AI & Telehealth in Pharmacy Practices
+      institution: The 4th Taiwan Joint Conference of Pharmacy and Pharmaceutical Sciences
+      year: 11/2022
+      description:
+        - Lecture title - Telehealth Pharmacy Education & Practice in US
+        - Role - Session speaker
+    - title: Target Trial Emulation in Observational Research and Translational Testing of Advanced Digital Health Tools for SUD Prevention and Treatment
+      institution: National Institute on Drug Abuse, Clinical Trial Network
+      year: 09/2022
+      description:
+        - Lecture title - Development and Implementation of a machine-learning based opioid overdose risk prediction tool in the electronic health records
+        - Role - Workshop panelist
+    - title: PHA5233 Pharmacoepidemiology and drug safety
+      institution: University of Florida, College of Pharmacy
+      year: 08/2022
+      description:
+        - Lecture title - Artificial Intelligence and machine learning in pharmacy practice
+        - Role - Lecturer
+    - title: Precision Health Forum Series
+      institution: University of Florida, Clinical and Translational Science Institute (CTSI)
+      year: 05/2022
+      description:
+        - Lecture title - Using Machine Learning Approaches to Predict Opioid Overdose and Opioid Use Disorder - the Current State and Challenges
+    - title: Training lecture
+      institution: American College of Clinical Pharmacy (AACP)
+      year: 02/2022
+      description:
+        - Lecture title - Can machine learning improve pharmaceutical outcomes & patient care?
+    - title: Health academy series
+      institution: University of Pittsburgh Alumni Association
+      year: 12/2021
+      description:
+        - Lecture title - Harnessing big data to save lives- How machine learning tools can help predict opioid overdose
+        - Role - Key speaker
+    - title: PHA5930 Seminar in Pharmacy Research
+      institution: University of Florida, College of Pharmacy
+      year: 12/2021
+      description:
+        - Lecture title - Application of advanced predictive analytics in pharmaceutical outcomes research 
+        - Role - Lecturer
+    - title: Advancing with AI technology through the pandemic series
+      institution: The 3rd Taiwan Joint Conference of Pharmacy and Pharmaceutical Sciences
+      year: 11/2021
+      description:
+        - Lecture title - Application of machine learning in pharmaceutical outcomes research- the current state and challenges  
+        - Role - Session speaker
+    - title: University of North Carolina at Chapel Hills, DPOP Seminar
+      institution: University of North Carolina at Chapel Hills, Department of Pharmaceutical Outcomes and Policy (DPOP)
+      year: 04/2021
+      description:
+        - Lecture title - Using Machine Learning Approaches to Predict Opioid Overdose and Opioid Use Disorder (OUD)
+        - Role - speaker
+    - title: Brandeis-Harvard Methods Workshop
+      institution: Brandeis-Harvard NIDA Center
+      year: 01/2021
+      description:
+        - Lecture title - Applying Group-Based Trajectory Modeling in Health Outcomes Research
+        - Role - Lecturer
+    - title: Special invited seminar
+      institution: University of Utah, College of Medicine, Department of Internal Medicine, Division of Epidemiology
+      year: 09/2020
+      description:
+        - Lecture title - IDEAS Seminar Presentation Applying Advanced Predictive Analytics in Pharmaceutical Outcomes Research
+        - Role - Speaker
+    - title: Special invited seminar
+      institution: University of Utah, College of Medicine, Department of Internal Medicine, Division of Epidemiology
+      year: 09/2020
+      description:
+        - Lecture title - GIN on the Rocks Presentation (GOTR)- Using machine learning to predict opioid overdose and opioid use disorder
+        - Role - Speaker
+    - title: Special invited seminar
+      institution: Dept. of Pharmaceutical Science & Technology, Maulana Abul Kalam Azad University of Technology (India)
+      year: 09/2020
+      description:
+        - Lecture title - Applying Analytics in Pharmaceutical Outcomes Research
+        - Role - Speaker
+    - title: Annual conference short course
+      institution: ISPOR annual conference offered virtually (due to COVID-19)
+      year: 07/2020, 07/2021
+      description:
+        - Lecture title - Introduction to machine learning methods
+        - Role - Main coordinator and lecturer
+    - title: Monthly investigator luncheon
+      institution: Gainesville Geriatric Research Education and Clinical Centers (GRECC)
+      year: 02/2019
+      description:
+        - Lecture title - Applying advanced analytics in pharmaceutical outcomes research
+        - Role - Speaker
+    - title: PHA 6265- Introduction to Pharmaceutical Outcomes & Policy
+      institution: University of Florida, College of Pharmacy, Department of Pharmaceutical Outcomes & Policy
+      year: 2019, spring
+      description:
+        - Lecture title - Developing a research question; Predictive modeling
+        - Role - Lecturer
+    - title: Special invited seminar speaker
+      institution: National Cheng-Kung University, College of Pharmacy, Tainan, Taiwan
+      year: 06/2018
+      description:
+        - Lecture title - Applying advanced analytics in pharmaceutical outcomes research
+        - Role - Lecturer
+    - title: Annual Arthritis Conversations and Luncheon
+      institution: University of Arizona Arthritis Center
+      year: 10/2016
+      description:
+        - Lecture title - Researcher speaker and panel discussant
+    - title: Rheumatology Grand Round
+      institution: University of Arizona, College of Medicine, Division of Rheumatology
+      year: 09/2016
+      description:
+        - Lecture title - Analgesic pain management and adverse drug reactions with opioid use in older adults
+        - Role - Speaker
+    - title: Workshop- Training Program in Health Outcomes and Pharmacoeconomic Research
+      institution: The University of Arizona, College of Pharmacy
+      year: 09/2015
+      description:
+        - Lecture title - Data sources for pharmacoeconomic and health service research
+        - Role - Lecturer
+    - title: Graduate Seminar
+      institution: University of Arizona, College of Public Health
+      year: 09/2015
+      description:
+        - Lecture title - Applications of pharmacoepidemiological methods to evaluate medication utilization and to improve pharmaceutical outcomes
+        - Role - Lecturer
+    - title: Annual Arthritis Conversations and Luncheon
+      institution: Annual Arthritis Conversations and Luncheon
+      year: 09/2015
+      description:
+        - Lecture title - Round table researcher host
+        - Role - Lecturer
+    - title: EPIDEM 2850- Introduction to Pharmacoepidemiology, Division of Geriatric Medicine
+      institution: University of Pittsburgh, School of Medicine/Graduate School of Public Health
+      year: 03/2014
+      description:
+        - Lecture title - Changes in cholesterol- lowering medications use over a decade, and statins and gait speed decline in community dwelling older adults
+        - Role - Lecturer
+    - title: EPIDEM 2850- Introduction to Pharmacoepidemiology, Division of Geriatric Medicine
+      institution: University of Pittsburgh, School of Medicine/Graduate School of Public Health
+      year: 03/2011
+      description:
+        - Lecture title - Aspirin, nonaspirin nonsteroidal anti- inflammatory, acetaminophen and risk of ovarian cancer 
+        - Role - Lecturer
+    - title: EPIDEM 2183- Reading, Analyzing and Interpreting the Public Health and Medical Literature
+      institution: University of Pittsburgh, Graduate School of Public Health
+      year: 2011
+      description:
+        - Lecture title - Causality
+        - Role - Lecturer
