@@ -1,11 +1,11 @@
 ---
 layout: page
-title: My Team
+title: team
 permalink: /team/
 description: 
 nav: true
 nav_order: 2
-display_categories: []
+display_categories: 
 horizontal: false
 ---
 
