@@ -6,6 +6,7 @@ description:
 years: [2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2004]
 nav: true
 nav_order: 1
+link: https://pubmed.ncbi.nlm.nih.gov/?term=Lo-Ciganic
 ---
 <!-- _pages/publications.md -->
 <div class="publications">
