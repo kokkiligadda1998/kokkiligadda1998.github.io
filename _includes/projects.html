@@ -1,4 +1,13 @@
 <!-- _includes/projects.html -->
+<style>
+  .contact-links {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px; 
+    font-size: 20px; 
+  }
+</style>
+
 <div class="grid-sizer"></div>
 <div class="grid-item">
   <!-- {% if project.redirect -%}
@@ -16,12 +25,15 @@
           <h2 class="card-title text">{{ project.title }}</h2>
           <p class="card-text">{{ project.letters }}</p>
           <p class="card-text">{{ project.description }}</p>
-          <p class="card-text">{{ project.email }}</p>
-          {% if project.email %}
-          <a href="mailto:{{ project.email | encode_email }}" title="email"><i class="fas fa-envelope"></i></a>
-          {% endif %}
-          {% if project.linkedin %}
-          <a href="{{ project.linkedin }}" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+          {% if project.email or project.linkedin %}
+          <div class="contact-links">
+            {% if project.email %}
+            <a href="mailto:{{ project.email | encode_email }}" title="email"><i class="fas fa-envelope"></i></a>
+            {% endif %}
+            {% if project.linkedin %}
+            <a href="{{ project.linkedin }}" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+            {% endif %}
+          </div>
           {% endif %}
           <div class="row ml-1 mr-1 p-0">
             {%- if project.github -%}
