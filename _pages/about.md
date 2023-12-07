@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: M.S.Pharm, M.S., Ph.D.
 
