@@ -17,6 +17,9 @@
           <p class="card-text">{{ project.letters }}</p>
           <p class="card-text">{{ project.description }}</p>
           <p class="card-text">{{ project.email }}</p>
+          {% if project.email %}
+          <a href="mailto:{{ project.email | encode_email }}" title="email"><i class="fas fa-envelope"></i></a>
+          {% endif %}
           {% if project.linkedin %}
           <a href="{{ project.linkedin }}" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
           {% endif %}
